@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "310189581477",
+    "project_id": "ebuy-app-155d1",
+    "storage_bucket": "ebuy-app-155d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310189581477:android:e80e304cc450c66b10994c",
+        "android_client_info": {
+          "package_name": "com.project.ebuy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAohYUgHdRoQKsL_PLkmIYyuMlwRMT3MhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
