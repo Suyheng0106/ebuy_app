@@ -6,9 +6,9 @@ import '../../../constants/constant.dart';
 import '../../home/controllers/home_controller.dart';
 
 class CartView extends GetView<CartController> {
-  CartView({super.key});
+  const CartView({super.key});
 
-  final controller = Get.put(CartController());
+  // final controller = Get.put(CartController());
 
   @override
   Widget build(BuildContext context) {
